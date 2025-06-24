@@ -12,6 +12,7 @@
     <Copyright>Copyright (c) Huawei Technologies Co., Ltd. 2019-2019. All rights reserved.</Copyright>
     <Authors>Huawei</Authors>
     <Configurations>Debug;Release;Proxy</Configurations>
+    <LangVersion>8</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
